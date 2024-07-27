@@ -1,0 +1,19 @@
+.p_container{
+    font-family: YekanBakh;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: bold;
+    font-weight: 900;
+    src: url('font/YekanBakh-Bold.bbd877a3.woff') format('woff');
+}
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 500;
+    src: url('font/YekanBakh-Medium.f7360956.woff') format('woff');
+}
+.right_part_header{
+    width: inherit;
+}
